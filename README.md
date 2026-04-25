@@ -27,6 +27,20 @@ fullstack-learning/
 └── README.md
 ```
 
+## 📁 Project Preview Link 
+
+```
+fullstack-learning/
+│
+├── HTML/        # Frontend (React / HTML/CSS/JS)
+├── CSS/        # Backend (Node.js / Express)
+├── JAVA SCRIPT/      # Practice mini-projects
+├── REACT
+├──
+├──
+├──
+└── README.md
+
 ---
 
 ## 🎯 Goals
