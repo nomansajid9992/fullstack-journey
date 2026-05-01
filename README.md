@@ -32,7 +32,7 @@ fullstack-learning/
 ```
 fullstack-learning/
 │
-├── HTML/        # Frontend (React / HTML/CSS/JS)
+├── HTML/        [https://html-practice-chnoman9992.netlify.app/]
 ├── CSS/        # Backend (Node.js / Express)
 ├── JAVA SCRIPT/      # Practice mini-projects
 ├── REACT
